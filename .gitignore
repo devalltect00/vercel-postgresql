@@ -79,3 +79,5 @@ env/
 
 # Local development server
 .env.local
+
+Pipfile.lock
